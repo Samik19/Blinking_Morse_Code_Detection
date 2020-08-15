@@ -1,4 +1,4 @@
-# Blinking_Morse_Code_Detection
+# Blinking Morse Code Detection
 ![](images/morse-code.jpg)
 This project seeks to help people with permanent disabilities communicate better. Many people who have lost control of most body parts can still intentionally blink. This blinking can be timed and used as mechnism to communicate. 
 
